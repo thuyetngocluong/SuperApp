@@ -5,7 +5,7 @@
         <item>
             <title>1.0</title>
             <pubDate>Wed, 08 Apr 2026 02:17:55 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>1.0.3</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.3/SuperApp.dmg" length="7616846" type="application/octet-stream" sparkle:edSignature="h+JCjdwAgs6wuaxSJ9C34gxcHuKW6ZHO4z6uCI0o8JVh2s4IZg6HB6l3oVA4UraE7p5FFjMbR66BlgqV6cb8Bw=="/>
