@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>SuperApp</title>
+        <title>Super App</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Wed, 17 Jun 2026 14:45:36 +0700</pubDate>
-            <sparkle:version>1.0.7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.7/SuperApp.dmg" length="7609020" type="application/octet-stream" sparkle:edSignature="SGHG9YE+qvYq4DnZrhsKsOH+V+mN++0pBu+mlvzQXN2u0NyMb/Pbiq764v+AAtFw/OEAqROm4hRiGn1060DgDg=="/>
+            <title>1.0.8</title>
+            <pubDate>Fri, 19 Jun 2026 10:38:57 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.8/SuperApp.dmg" length="38363356" type="application/octet-stream" sparkle:edSignature="jSSfNMVEdIgsTmrC21gDnGVingIDWO0vcbLCF4uopUqjoULAwElTntcbNMc56PlWiXII0bneRfWcCHJRfm/gAA=="/>
         </item>
     </channel>
 </rss>
