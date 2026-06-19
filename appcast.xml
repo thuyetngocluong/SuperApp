@@ -4,11 +4,11 @@
         <title>Super App</title>
         <item>
             <title>1.0.8</title>
-            <pubDate>Fri, 19 Jun 2026 11:16:06 +0700</pubDate>
+            <pubDate>Fri, 19 Jun 2026 11:29:51 +0700</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.8/SuperApp.dmg" length="38363404" type="application/octet-stream" sparkle:edSignature="6ecQ7n/NStpJldfBTvFWvBLNpMXvZpvXoeoWXcuhP5HrIKaDZPgtXWLrErN/u2eqgGKi94KX+bFWVLnSA8PVBA=="/>
+            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.8/SuperApp.dmg" length="39043554" type="application/octet-stream" sparkle:edSignature="9lgqZEpkE4tlqhzni06i0/ypCHJzdiAYUepYZAUZIY5JagMfuIhr2+N4JctTXFlktGeuI/RaZtYaDU//JUE6BA=="/>
         </item>
     </channel>
 </rss>
