@@ -3,12 +3,12 @@
     <channel>
         <title>Super App</title>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Mon, 22 Jun 2026 10:43:37 +0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Wed, 01 Jul 2026 14:34:56 +0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.10/SuperApp.dmg" length="38358610" type="application/octet-stream" sparkle:edSignature="QXHFavIpyskJ5gEZIFqGJUW/DUwtxOB8BZC8XNr0jo50f86vsMW3YG1sbLW7LXUMCmV5o50zcHUYymCj0DZhBw=="/>
+            <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.11/SuperApp.dmg" length="38357324" type="application/octet-stream" sparkle:edSignature="J5Bx9RWTkQjsoWZ4wWdcxZNLedPGdiRG4AhZIBVAnfiAkrHPUdR1GR78OubdoFvR8AApA0qjooxgnoWRkcjgCA=="/>
         </item>
     </channel>
 </rss>
