@@ -3,10 +3,10 @@
   <channel>
     <title>Super App (Windows)</title>
     <item>
-      <title>1.0.23</title>
-      <sparkle:version>1.0.23</sparkle:version>
-      <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
-      <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.23/SuperApp-1.0.23-windows.zip" sparkle:version="1.0.23" sparkle:shortVersionString="1.0.23" length="36871208" type="application/octet-stream" sparkle:dsaSignature="MD4CHQCngcPmelNyVulJQu/YxEqVKIfNWpiLlXFQhZx4Ah0A8C78+izE3Kj0M/JFS9/1jNRlHANnai25kFxTSQ==" />
+      <title>1.0.24</title>
+      <sparkle:version>1.0.24</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <enclosure url="https://github.com/thuyetngocluong/SuperApp/releases/download/v1.0.24/SuperApp-1.0.24-windows.zip" sparkle:version="1.0.24" sparkle:shortVersionString="1.0.24" length="36873659" type="application/octet-stream" sparkle:dsaSignature="MD0CHDw6CKZ0G/4estm4WDxwl+lpRcNpgyO/tP/1BhICHQDrIummfPUQ6XLxhzinYV92RTLWQ+o1NU/laxF+" />
     </item>
   </channel>
 </rss>
